@@ -6,7 +6,7 @@
 - 📫 How to reach me **azizbalti.dev@gmail.com**
 
 
-- ⚡ Fun fact **I love cats $ horror movies**
+- ⚡ Fun fact **I love cats and horror movies**
 
 <br>
 <h3 align="left">Connect with me:</h3>
