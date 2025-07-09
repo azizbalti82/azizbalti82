@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi! I'm Aziz Balti, a mobile developer with a strong focus on creating smooth, intuitive, and high-performance apps. I specialize in Flutter and enjoy turning ideas into well-crafted mobile experiences.<br><br>I built Watchy, a “watch together” app that lets users join rooms and watch videos in sync.<br>I also developed Waali, a secure mobile banking companion app with features like authentication, loan simulation, and notification tracking.<br><br>I'm always exploring better ways to build, design, and scale mobile apps using modern tools and best practices.<br><br>Tech Stack:<br>Languages: Dart, JavaScript, Python<br>Frameworks: Flutter, Node.js, Express<br>Tools: Firebase, Git, REST APIs<br>Design: Figma, UI/UX best practices<br><br>Feel free to explore my projects or reach out to connect!<br><br><br>
+Hi! I'm **Aziz Balti** a passionate indie mobile developer driven by the thrill of bringing ideas to life. I specialize in **Flutter** and love building smooth, high-quality apps that feel great to use.
+
+Over the past few years, I've crafted **more than 10 full-featured mobile apps** from scratch, including work on a secure **banking app**. Whether it’s solving tough UI challenges, fine-tuning performance, or shaping a product from the ground up, I’m all in.
+
+I’m always pushing myself to learn, explore, and create better digital experiences and I’m just getting started.
+
+**Let’s connect!**
+
 
 
 ## 🌐 Socials:
