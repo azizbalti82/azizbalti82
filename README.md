@@ -15,9 +15,6 @@ I’m always pushing myself to learn, explore, and create better digital experie
     <a href="your-linkedin-URL" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
     <a href="your-twitter-URL" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
@@ -25,7 +22,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
       <img src="https://img.shields.io/badge/Google_Play-green?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Badge"/>
     </a>
     <a href="your-portfolio-URL" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
 </div>
