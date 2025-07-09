@@ -14,7 +14,6 @@ I’m always pushing myself to learn, explore, and create better digital experie
 
 Here's a selection of some apps I've built from scratch — mobile-first, user-focused, and performance-driven.
 
-| Project | Project | Project |
 |--------|--------|--------|
 | [![Project 1](https://via.placeholder.com/150)](https://github.com/yourusername/project1) <br>**Watchy**<br>Watch together in sync | [![Project 2](https://via.placeholder.com/150)](https://github.com/yourusername/project2) <br>**Waali**<br>Secure banking companion | [![Project 3](https://via.placeholder.com/150)](https://github.com/yourusername/project3) <br>**AppName**<br>Short description |
 | [![Project 4](https://via.placeholder.com/150)](https://github.com/yourusername/project4) <br>**AppName**<br>Short description | [![Project 5](https://via.placeholder.com/150)](https://github.com/yourusername/project5) <br>**AppName**<br>Short description | [![Project 6](https://via.placeholder.com/150)](https://github.com/yourusername/project6) <br>**AppName**<br>Short description |
