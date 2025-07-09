@@ -31,7 +31,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 
 <div class="project-grid">
   <div class="project-card">
-    <h3>🇩🇪 <a href="https://github.com/azizbalti82/easydeutch">EasyDeutch</a></h3>
+    <h3>🇩🇪 <a href="https://github.com/azizbalti82/flutter-app-easy-deutsch">EasyDeutch</a></h3>
     <p>Fun mobile application for learning German with AI assistance: interactive dialogues, quizzes, and cultural discoveries.</p>
     <strong>Tech Stack:</strong> <code>Flutter</code> <code>Dart</code> <code>AI</code>
   </div>
@@ -43,49 +43,49 @@ I’m always pushing myself to learn, explore, and create better digital experie
   </div>
 
   <div class="project-card">
-    <h3>💰 <a href="https://github.com/azizbalti82/waali">Waali</a></h3>
+    <h3>💰 <a href="https://github.com/azizbalti82/Mi-Wallet">Waali</a></h3>
     <p>App to track expenses, set budgets, and analyze spending habits.</p>
     <strong>Tech Stack:</strong> <code>Flutter</code> <code>Hive</code> <code>Charts</code>
   </div>
 
   <div class="project-card">
-    <h3>📝 <a href="https://github.com/azizbalti82/havo">Havo</a></h3>
+    <h3>📝 <a href="https://github.com/azizbalti82/flutter-app-havo">Havo</a></h3>
     <p>Flutter app for habit and mood tracking with personal journaling.</p>
     <strong>Tech Stack:</strong> <code>Flutter</code> <code>Dart</code> <code>Local Storage</code>
   </div>
 
   <div class="project-card">
-    <h3>🎵 <a href="https://github.com/azizbalti82/joby">Music Player</a></h3>
+    <h3>🎵 <a href="https://github.com/azizbalti82/android_app_music_player">Music Player</a></h3>
     <p>Android app for listening to music offline.</p>
     <strong>Tech Stack:</strong> <code>Android</code> <code>MediaPlayer</code> <code>Offline Playback</code>
   </div>
 
   <div class="project-card">
-    <h3>🍳 <a href="https://github.com/azizbalti82/tastify">Tastify</a></h3>
+    <h3>🍳 <a href="https://github.com/azizbalti82/android_app_tastify">Tastify</a></h3>
     <p>Android app for discovering and managing cooking recipes.</p>
     <strong>Tech Stack:</strong> <code>Android</code> <code>Java/Kotlin</code> <code>Recipe API</code>
   </div>
 
   <div class="project-card">
-    <h3>🔒 <a href="https://github.com/azizbalti82/focus-control">Focus Control</a></h3>
+    <h3>🔒 <a href="https://github.com/azizbalti82/android_app_focus_control">Focus Control</a></h3>
     <p>App that helps stay focused by blocking distracting apps.</p>
     <strong>Tech Stack:</strong> <code>Android</code> <code>App Blocking</code> <code>Productivity</code> <code>Accessibility</code>
   </div>
 
   <div class="project-card">
-    <h3>💬 <a href="https://github.com/azizbalti82/chatloop">ChatLoop</a></h3>
+    <h3>💬 <a href="https://github.com/azizbalti82/android_app_chatloop">ChatLoop</a></h3>
     <p>Messaging app with discussions and stories, inspired by Messenger.</p>
     <strong>Tech Stack:</strong> <code>Flutter</code> <code>Firebase</code> <code>Real-time Chat</code>
   </div>
 
   <div class="project-card">
-    <h3>💼 <a href="https://github.com/azizbalti82/joby">Joby</a></h3>
+    <h3>💼 <a href="https://github.com/azizbalti82/android_app_job_finder">Joby</a></h3>
     <p>Job search and application app designed for smartphones.</p>
     <strong>Tech Stack:</strong> <code>Android</code> <code>Job Search API</code> <code>Mobile UI</code>
   </div>
 
   <div class="project-card">
-    <h3>📺 <a href="https://github.com/azizbalti82/android-tv-kiosk">Android TV Kiosk</a></h3>
+    <h3>📺 <a href="https://github.com/azizbalti82/android_tv_adplay">Android TV Kiosk</a></h3>
     <p>Android TV advertising display system controlled via web interface.</p>
     <strong>Tech Stack:</strong> <code>Android</code> <code>Web Interface</code> <code>Remote Control</code>
   </div>
