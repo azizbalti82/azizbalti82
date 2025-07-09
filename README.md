@@ -40,7 +40,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ### 🇩🇪 [EasyDeutch](https://github.com/yourusername/easydeutch)
 ![EasyDeutch](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=easydeutch&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Application mobile ludique pour apprendre l'allemand avec l'aide de l'IA : dialogues interactifs, quiz et découvertes culturelles.
+Fun mobile application for learning German with AI assistance: interactive dialogues, quizzes, and cultural discoveries.
 
 **Tech Stack:** `Flutter` `Dart` `AI/ML`
 
@@ -52,7 +52,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ### 🎬 [Watchy](https://github.com/yourusername/watchy)
 ![Watchy](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=watchy&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Application Flutter permettant à plusieurs utilisateurs de regarder des vidéos ensemble en temps réel dans des salons virtuels, avec chat intégré et synchronisation automatique.
+Flutter application allowing multiple users to watch videos together in real-time in virtual rooms, with integrated chat and automatic playback synchronization.
 
 **Tech Stack:** `Flutter` `WebRTC` `Firebase`
 
@@ -64,7 +64,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ### 💰 [Waali](https://github.com/yourusername/waali)
 ![Waali](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=waali&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Application mobile conçue pour aider les utilisateurs à suivre leurs dépenses, établir des budgets et analyser leurs habitudes de consommation.
+Mobile application designed to help users track their expenses, set budgets, and analyze their spending habits.
 
 **Tech Stack:** `Flutter` `SQLite` `Charts`
 
@@ -78,7 +78,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ### 📝 [Havo](https://github.com/yourusername/havo)
 ![Havo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=havo&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Application Flutter de suivi des habitudes et de l'humeur, avec journal personnel intégré.
+Flutter application for tracking habits and mood, with integrated personal journal.
 
 **Tech Stack:** `Flutter` `Dart` `Local Storage`
 
@@ -90,7 +90,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ### 📺 [Android TV Kiosk](https://github.com/yourusername/android-tv-kiosk)
 ![Android TV Kiosk](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=android-tv-kiosk&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Système d'affichage de publicités sur TV Android, piloté à distance via une interface web.
+Android TV advertising display system, remotely controlled via a web interface.
 
 **Tech Stack:** `Android` `Web Interface` `Remote Control`
 
@@ -102,7 +102,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ### 🍳 [Tastify](https://github.com/yourusername/tastify)
 ![Tastify](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=tastify&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Appli de découverte et gestion de recettes de cuisine sur Android.
+Android app for discovering and managing cooking recipes.
 
 **Tech Stack:** `Android` `Java/Kotlin` `Recipe API`
 
@@ -116,7 +116,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ### 🔒 [Focus Control](https://github.com/yourusername/focus-control)
 ![Focus Control](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=focus-control&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Application qui aide à rester concentré en bloquant les applications sources de distraction.
+Application that helps stay focused by blocking distracting apps.
 
 **Tech Stack:** `Android` `App Blocking` `Productivity`
 
@@ -128,7 +128,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ### 💬 [ChatLoop](https://github.com/yourusername/chatloop)
 ![ChatLoop](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chatloop&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Application de messagerie mobile avec discussions et stories, inspirée de Meta Messenger.
+Mobile messaging application with discussions and stories, inspired by Meta Messenger.
 
 **Tech Stack:** `Flutter` `Firebase` `Real-time Chat`
 
@@ -140,7 +140,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ### 💼 [Joby](https://github.com/yourusername/joby)
 ![Joby](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=joby&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Application pour rechercher un emploi et postuler rapidement depuis un smartphone.
+Application for searching jobs and applying quickly from a smartphone.
 
 **Tech Stack:** `Android` `Job Search API` `Mobile UI`
 
@@ -150,8 +150,6 @@ I’m always pushing myself to learn, explore, and create better digital experie
 </tr>
 </table>
 <!-- PROJECT GRID END -->
-
-
 
 
 
