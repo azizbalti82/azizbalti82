@@ -5,6 +5,8 @@ Over the past few years, I've crafted **more than 10 full-featured mobile apps**
 
 I’m always pushing myself to learn, explore, and create better digital experiences and I’m just getting started.
 
+<br/>
+
 ## 📫 Connect with Me
 
 <div align="center">
