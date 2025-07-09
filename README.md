@@ -35,7 +35,6 @@ I’m always pushing myself to learn, explore, and create better digital experie
 <td width="33%" valign="top">
 
 ### 🇩🇪 [EasyDeutch](https://github.com/yourusername/easydeutch)
-![EasyDeutch](https://github.com/yourusername/easydeutch/raw/main/screenshot.png)
 
 Fun mobile application for learning German with AI assistance: interactive dialogues, quizzes, and cultural discoveries.
 
@@ -45,7 +44,6 @@ Fun mobile application for learning German with AI assistance: interactive dialo
 <td width="33%" valign="top">
 
 ### 🎬 [Watchy](https://github.com/yourusername/watchy)
-![Watchy](https://github.com/yourusername/watchy/raw/main/screenshot.png)
 
 Flutter application allowing multiple users to watch videos together in real-time in virtual rooms, with integrated chat and automatic playback synchronization.
 
@@ -55,7 +53,6 @@ Flutter application allowing multiple users to watch videos together in real-tim
 <td width="33%" valign="top">
 
 ### 💰 [Waali](https://github.com/yourusername/waali)
-![Waali](https://github.com/yourusername/waali/raw/main/screenshot.png)
 
 Mobile application designed to help users track their expenses, set budgets, and analyze their spending habits.
 
@@ -67,7 +64,6 @@ Mobile application designed to help users track their expenses, set budgets, and
 <td width="33%" valign="top">
 
 ### 📝 [Havo](https://github.com/yourusername/havo)
-![Havo](https://github.com/yourusername/havo/raw/main/screenshot.png)
 
 Flutter application for tracking habits and mood, with integrated personal journal.
 
@@ -77,8 +73,6 @@ Flutter application for tracking habits and mood, with integrated personal journ
 <td width="33%" valign="top">
 
 ### 📺 [Android TV Kiosk](https://github.com/yourusername/android-tv-kiosk)
-![Android TV Kiosk](https://github.com/yourusername/android-tv-kiosk/raw/main/screenshot.png)
-
 Android TV advertising display system, remotely controlled via a web interface.
 
 **Tech Stack:** `Android` `Web Interface` `Remote Control`
@@ -87,7 +81,7 @@ Android TV advertising display system, remotely controlled via a web interface.
 <td width="33%" valign="top">
 
 ### 🍳 [Tastify](https://github.com/yourusername/tastify)
-![Tastify](https://github.com/yourusername/tastify/raw/main/screenshot.png)
+![tastify-min](https://github.com/user-attachments/assets/c6dffc47-a65e-4196-89ab-3c1b7aaf78a5)
 
 Android app for discovering and managing cooking recipes.
 
@@ -99,7 +93,7 @@ Android app for discovering and managing cooking recipes.
 <td width="33%" valign="top">
 
 ### 🔒 [Focus Control](https://github.com/yourusername/focus-control)
-![Focus Control](https://github.com/yourusername/focus-control/raw/main/screenshot.png)
+![apps_blocker-min](https://github.com/user-attachments/assets/a6b4885f-9fb9-465e-8f78-bde01585b92d)
 
 Application that helps stay focused by blocking distracting apps.
 
@@ -109,7 +103,7 @@ Application that helps stay focused by blocking distracting apps.
 <td width="33%" valign="top">
 
 ### 💬 [ChatLoop](https://github.com/yourusername/chatloop)
-![ChatLoop](https://github.com/yourusername/chatloop/raw/main/screenshot.png)
+![chatloop-min](https://github.com/user-attachments/assets/c58098f9-1188-4130-b7a3-c14c0ccd61b6)
 
 Mobile messaging application with discussions and stories, inspired by Meta Messenger.
 
