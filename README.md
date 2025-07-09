@@ -25,100 +25,86 @@ I’m always pushing myself to learn, explore, and create better digital experie
 
 
 ## 🚀 Projects I'm Proud Of — All Built from Scratch
-<table>
-<tr>
-<td width="33%" valign="top">
+<!-- PROJECT GRID START -->
+<style>
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+  }
+  .project-card {
+    border: 1px solid #444;
+    border-radius: 10px;
+    padding: 16px;
+    background-color: #1e1e1e;
+  }
+</style>
 
-### 🇩🇪 [EasyDeutch](https://github.com/azizbalti82/easydeutch)
+<div class="project-grid">
 
-Fun mobile application for learning German with AI assistance: interactive dialogues, quizzes, and cultural discoveries.
+  <div class="project-card">
+    <h3>🇩🇪 <a href="https://github.com/azizbalti82/easydeutch">EasyDeutch</a></h3>
+    <p>Fun mobile application for learning German with AI assistance: interactive dialogues, quizzes, and cultural discoveries.</p>
+    <strong>Tech Stack:</strong> <code>Flutter</code> <code>Dart</code> <code>AI</code>
+  </div>
 
-**Tech Stack:** `Flutter` `Dart` `AI`
+  <div class="project-card">
+    <h3>🎬 <a href="https://github.com/azizbalti82/watchy">Watchy</a></h3>
+    <p>Flutter app allowing multiple users to watch videos together in real time in virtual rooms, with chat and playback sync.</p>
+    <strong>Tech Stack:</strong> <code>Flutter</code> <code>Realtime</code> <code>Firebase</code>
+  </div>
 
-</td>
-<td width="33%" valign="top">
+  <div class="project-card">
+    <h3>💰 <a href="https://github.com/azizbalti82/waali">Waali</a></h3>
+    <p>App to track expenses, set budgets, and analyze spending habits.</p>
+    <strong>Tech Stack:</strong> <code>Flutter</code> <code>Hive</code> <code>Charts</code>
+  </div>
 
-### 🎬 [Watchy](https://github.com/azizbalti82/watchy)
+  <div class="project-card">
+    <h3>📝 <a href="https://github.com/azizbalti82/havo">Havo</a></h3>
+    <p>Flutter app for habit and mood tracking with personal journaling.</p>
+    <strong>Tech Stack:</strong> <code>Flutter</code> <code>Dart</code> <code>Local Storage</code>
+  </div>
 
-Flutter application allowing multiple users to watch videos together in real-time in virtual rooms, with integrated chat and automatic playback synchronization.
+  <div class="project-card">
+    <h3>🎵 <a href="https://github.com/azizbalti82/joby">Music Player</a></h3>
+    <p>Android app for listening to music offline.</p>
+    <strong>Tech Stack:</strong> <code>Android</code> <code>MediaPlayer</code> <code>Offline Playback</code>
+  </div>
 
-**Tech Stack:** `Flutter` `Realtime` `Firebase`
+  <div class="project-card">
+    <h3>🍳 <a href="https://github.com/azizbalti82/tastify">Tastify</a></h3>
+    <p>Android app for discovering and managing cooking recipes.</p>
+    <strong>Tech Stack:</strong> <code>Android</code> <code>Java/Kotlin</code> <code>Recipe API</code>
+  </div>
 
-</td>
-<td width="33%" valign="top">
+  <div class="project-card">
+    <h3>🔒 <a href="https://github.com/azizbalti82/focus-control">Focus Control</a></h3>
+    <p>App that helps stay focused by blocking distracting apps.</p>
+    <strong>Tech Stack:</strong> <code>Android</code> <code>App Blocking</code> <code>Productivity</code> <code>Accessibility</code>
+  </div>
 
-### 💰 [Waali](https://github.com/azizbalti82/waali)
+  <div class="project-card">
+    <h3>💬 <a href="https://github.com/azizbalti82/chatloop">ChatLoop</a></h3>
+    <p>Messaging app with discussions and stories, inspired by Messenger.</p>
+    <strong>Tech Stack:</strong> <code>Flutter</code> <code>Firebase</code> <code>Real-time Chat</code>
+  </div>
 
-Mobile application designed to help users track their expenses, set budgets, and analyze their spending habits.
+  <div class="project-card">
+    <h3>💼 <a href="https://github.com/azizbalti82/joby">Joby</a></h3>
+    <p>Job search and application app designed for smartphones.</p>
+    <strong>Tech Stack:</strong> <code>Android</code> <code>Job Search API</code> <code>Mobile UI</code>
+  </div>
 
-**Tech Stack:** `Flutter` `Hive` `Charts`
+  <div class="project-card">
+    <h3>📺 <a href="https://github.com/azizbalti82/android-tv-kiosk">Android TV Kiosk</a></h3>
+    <p>Android TV advertising display system controlled via web interface.</p>
+    <strong>Tech Stack:</strong> <code>Android</code> <code>Web Interface</code> <code>Remote Control</code>
+  </div>
 
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 📝 [Havo](https://github.com/azizbalti82/havo)
-
-Flutter application for tracking habits and mood, with integrated personal journal.
-
-**Tech Stack:** `Flutter` `Dart` `Local Storage`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎵 [Music Player](https://github.com/azizbalti82/joby)
-Android application for listening to music offline.
-
-**Tech Stack:** `Android` `MediaPlayer` `Offline Playback`
-</td>
-<td width="33%" valign="top">
-
-### 🍳 [Tastify](https://github.com/azizbalti82/tastify)
-Android app for discovering and managing cooking recipes.
-
-**Tech Stack:** `Android` `Java/Kotlin` `Recipe API`
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🔒 [Focus Control](https://github.com/azizbalti82/focus-control)
-Application that helps stay focused by blocking distracting apps.
-
-**Tech Stack:** `Android` `App Blocking` `Productivity` `Accessibility` 
-
-</td>
-<td width="33%" valign="top">
-
-### 💬 [ChatLoop](https://github.com/azizbalti82/chatloop)
-Mobile messaging application with discussions and stories, inspired by Meta Messenger.
-
-**Tech Stack:** `Flutter` `Firebase` `Real-time Chat`
-
-</td>
-<td width="33%" valign="top">
-
-### 💼 [Joby](https://github.com/azizbalti82/joby)
-Application for searching jobs and applying quickly from a smartphone.
-
-**Tech Stack:** `Android` `Job Search API` `Mobile UI`
-
-</td>
-
-<tr>
-  <td width="33%" valign="top">
-
-### 📺 [Android TV Kiosk](https://github.com/azizbalti82/android-tv-kiosk)
-Android TV advertising display system, remotely controlled via a web interface.
-**Tech Stack:** `Android` `Web Interface` `Remote Control`
-
-</td>
-</tr>
-</table>
+</div>
 <!-- PROJECT GRID END -->
+
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=azizbalti82&theme=dark&hide_border=false)<br/>
