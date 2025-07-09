@@ -29,7 +29,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 <tr>
 <td width="33%" valign="top">
 
-### 🇩🇪 [EasyDeutch](https://github.com/yourusername/easydeutch)
+### 🇩🇪 [EasyDeutch](https://github.com/azizbalti82/easydeutch)
 
 Fun mobile application for learning German with AI assistance: interactive dialogues, quizzes, and cultural discoveries.
 
@@ -38,7 +38,7 @@ Fun mobile application for learning German with AI assistance: interactive dialo
 </td>
 <td width="33%" valign="top">
 
-### 🎬 [Watchy](https://github.com/yourusername/watchy)
+### 🎬 [Watchy](https://github.com/azizbalti82/watchy)
 
 Flutter application allowing multiple users to watch videos together in real-time in virtual rooms, with integrated chat and automatic playback synchronization.
 
@@ -47,7 +47,7 @@ Flutter application allowing multiple users to watch videos together in real-tim
 </td>
 <td width="33%" valign="top">
 
-### 💰 [Waali](https://github.com/yourusername/waali)
+### 💰 [Waali](https://github.com/azizbalti82/waali)
 
 Mobile application designed to help users track their expenses, set budgets, and analyze their spending habits.
 
@@ -58,24 +58,26 @@ Mobile application designed to help users track their expenses, set budgets, and
 <tr>
 <td width="33%" valign="top">
 
-### 📝 [Havo](https://github.com/yourusername/havo)
+### 📝 [Havo](https://github.com/azizbalti82/havo)
 
 Flutter application for tracking habits and mood, with integrated personal journal.
 
 **Tech Stack:** `Flutter` `Dart` `Local Storage`
 
 </td>
+
 <td width="33%" valign="top">
 
-### 📺 [Android TV Kiosk](https://github.com/yourusername/android-tv-kiosk)
-Android TV advertising display system, remotely controlled via a web interface.
+### 🎵 [Music Player](https://github.com/azizbalti82/joby)
+![music player-min](https://github.com/user-attachments/assets/2f397340-531a-49ee-999c-54ccbb00b2df)
 
-**Tech Stack:** `Android` `Web Interface` `Remote Control`
+Android application for listening to music offline.
 
+**Tech Stack:** `Android` `MediaPlayer` `Offline Playback`
 </td>
 <td width="33%" valign="top">
 
-### 🍳 [Tastify](https://github.com/yourusername/tastify)
+### 🍳 [Tastify](https://github.com/azizbalti82/tastify)
 ![tastify-min](https://github.com/user-attachments/assets/c6dffc47-a65e-4196-89ab-3c1b7aaf78a5)
 
 Android app for discovering and managing cooking recipes.
@@ -87,7 +89,7 @@ Android app for discovering and managing cooking recipes.
 <tr>
 <td width="33%" valign="top">
 
-### 🔒 [Focus Control](https://github.com/yourusername/focus-control)
+### 🔒 [Focus Control](https://github.com/azizbalti82/focus-control)
 ![apps_blocker-min](https://github.com/user-attachments/assets/a6b4885f-9fb9-465e-8f78-bde01585b92d)
 
 Application that helps stay focused by blocking distracting apps.
@@ -97,7 +99,7 @@ Application that helps stay focused by blocking distracting apps.
 </td>
 <td width="33%" valign="top">
 
-### 💬 [ChatLoop](https://github.com/yourusername/chatloop)
+### 💬 [ChatLoop](https://github.com/azizbalti82/chatloop)
 ![chatloop-min](https://github.com/user-attachments/assets/c58098f9-1188-4130-b7a3-c14c0ccd61b6)
 
 Mobile messaging application with discussions and stories, inspired by Meta Messenger.
@@ -107,7 +109,7 @@ Mobile messaging application with discussions and stories, inspired by Meta Mess
 </td>
 <td width="33%" valign="top">
 
-### 💼 [Joby](https://github.com/yourusername/joby)
+### 💼 [Joby](https://github.com/azizbalti82/joby)
 ![joby - employee interface-min](https://github.com/user-attachments/assets/3fb100a4-295d-44aa-89df-d94dc41a6072)
 
 Application for searching jobs and applying quickly from a smartphone.
@@ -119,15 +121,12 @@ Application for searching jobs and applying quickly from a smartphone.
 <tr>
   <td width="33%" valign="top">
 
-### 🎵 Music Player
-![music player-min](https://github.com/user-attachments/assets/2f397340-531a-49ee-999c-54ccbb00b2df)
+### 📺 [Android TV Kiosk](https://github.com/azizbalti82/android-tv-kiosk)
+Android TV advertising display system, remotely controlled via a web interface.
 
-Android application for listening to music offline.
-
-**Tech Stack:** `Android` `MediaPlayer` `Offline Playback`
+**Tech Stack:** `Android` `Web Interface` `Remote Control`
 
 </td>
-
 </tr>
 </table>
 <!-- PROJECT GRID END -->
