@@ -13,41 +13,80 @@ I’m always pushing myself to learn, explore, and create better digital experie
 
 ## 🚀 My Projects
 
-## 🚀 My Projects
+<div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-
-  <a href="https://github.com/yourusername/project1" style="flex: 1 1 calc(25% - 16px); 
-      border: 1px solid #ddd; border-radius: 8px; padding: 16px; text-align: center; 
-      text-decoration: none; color: inherit; min-width: 200px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <a href="https://github.com/yourusername/project1" style="
+    display: inline-block;
+    vertical-align: top;
+    width: 22%;
+    margin: 1%;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    ">
     <h3>Project One</h3>
     <p>Short description of project one.</p>
   </a>
 
-  <a href="https://github.com/yourusername/project2" style="flex: 1 1 calc(25% - 16px); 
-      border: 1px solid #ddd; border-radius: 8px; padding: 16px; text-align: center; 
-      text-decoration: none; color: inherit; min-width: 200px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <a href="https://github.com/yourusername/project2" style="
+    display: inline-block;
+    vertical-align: top;
+    width: 22%;
+    margin: 1%;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    ">
     <h3>Project Two</h3>
     <p>Short description of project two.</p>
   </a>
 
-  <a href="https://github.com/yourusername/project3" style="flex: 1 1 calc(25% - 16px); 
-      border: 1px solid #ddd; border-radius: 8px; padding: 16px; text-align: center; 
-      text-decoration: none; color: inherit; min-width: 200px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <a href="https://github.com/yourusername/project3" style="
+    display: inline-block;
+    vertical-align: top;
+    width: 22%;
+    margin: 1%;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    ">
     <h3>Project Three</h3>
     <p>Short description of project three.</p>
   </a>
 
-  <a href="https://github.com/yourusername/project4" style="flex: 1 1 calc(25% - 16px); 
-      border: 1px solid #ddd; border-radius: 8px; padding: 16px; text-align: center; 
-      text-decoration: none; color: inherit; min-width: 200px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <a href="https://github.com/yourusername/project4" style="
+    display: inline-block;
+    vertical-align: top;
+    width: 22%;
+    margin: 1%;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    ">
     <h3>Project Four</h3>
     <p>Short description of project four.</p>
   </a>
 
-  <!-- Add more cards as needed -->
+  <!-- Add more cards the same way -->
 
 </div>
+
 
 
 
