@@ -98,13 +98,13 @@ Android TV advertising display system, remotely controlled via a web interface.
 <td width="33%" valign="top">
 
 ### 🍳 [Tastify](https://github.com/azizbalti82/android_app_tastify)
-![Tastify](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=tastify&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![Tastify](https://github-readme-stats.vercel.app/api/pin/?username=azizbalti82&repo=android_app_tastify&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
 Android app for discovering and managing cooking recipes.
 
 **Tech Stack:** `Android` `Java/Kotlin` `Recipe API`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/tastify?style=social)
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/azizbalti82/android_app_tastify?style=social)
 
 </td>
 </tr>
