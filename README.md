@@ -1,4 +1,4 @@
-![music player-min](https://github.com/user-attachments/assets/613e93df-4e37-4f63-b1b2-a9477f24901f)## 💫 About Me:
+## 💫 About Me:
 Hi! I'm **Aziz Balti** a passionate indie mobile developer driven by the thrill of bringing ideas to life. I specialize in **Flutter** and love building smooth, high-quality apps that feel great to use.
 
 Over the past few years, I've crafted **more than 10 full-featured mobile apps** from scratch, including work on a secure **banking app**. Whether it’s solving tough UI challenges, fine-tuning performance, or shaping a product from the ground up, I’m all in.
@@ -118,7 +118,7 @@ Application for searching jobs and applying quickly from a smartphone.
 <td width="33%" valign="top">
 
 ### 🎵 Music Player
-![music player-min](https://github.com/user-attachments/assets/7850a12d-c0a2-4375-8dc6-5917687f397b)
+![music player-min](https://github.com/user-attachments/assets/2f397340-531a-49ee-999c-54ccbb00b2df)
 
 Android application for listening to music offline.
 
