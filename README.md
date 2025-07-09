@@ -24,7 +24,9 @@ I’m always pushing myself to learn, explore, and create better digital experie
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<br/>
+
+
+
 ## 🚀 Projects I'm Proud Of — All Built from Scratch
 
 
@@ -37,7 +39,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 
 Fun mobile application for learning German with AI assistance: interactive dialogues, quizzes, and cultural discoveries.
 
-**Tech Stack:** `Flutter` `Dart` `AI/ML`
+**Tech Stack:** `Flutter` `Dart` `AI`
 
 </td>
 <td width="33%" valign="top">
@@ -47,7 +49,7 @@ Fun mobile application for learning German with AI assistance: interactive dialo
 
 Flutter application allowing multiple users to watch videos together in real-time in virtual rooms, with integrated chat and automatic playback synchronization.
 
-**Tech Stack:** `Flutter` `WebRTC` `Firebase`
+**Tech Stack:** `Flutter` `Realtime` `Firebase`
 
 </td>
 <td width="33%" valign="top">
@@ -57,7 +59,7 @@ Flutter application allowing multiple users to watch videos together in real-tim
 
 Mobile application designed to help users track their expenses, set budgets, and analyze their spending habits.
 
-**Tech Stack:** `Flutter` `SQLite` `Charts`
+**Tech Stack:** `Flutter` `Hive` `Charts`
 
 </td>
 </tr>
@@ -101,7 +103,7 @@ Android app for discovering and managing cooking recipes.
 
 Application that helps stay focused by blocking distracting apps.
 
-**Tech Stack:** `Android` `App Blocking` `Productivity`
+**Tech Stack:** `Android` `App Blocking` `Productivity` `Accessibility` 
 
 </td>
 <td width="33%" valign="top">
