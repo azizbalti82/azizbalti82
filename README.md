@@ -13,27 +13,42 @@ I’m always pushing myself to learn, explore, and create better digital experie
 
 ## 🚀 My Projects
 
-<div align="center">
+## 🚀 My Projects
 
-  <a href="https://github.com/yourusername/watchy" style="margin: 12px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150"><br>
-    <strong>Watchy</strong><br>
-    Watch together in sync
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <a href="https://github.com/yourusername/project1" style="flex: 1 1 calc(25% - 16px); 
+      border: 1px solid #ddd; border-radius: 8px; padding: 16px; text-align: center; 
+      text-decoration: none; color: inherit; min-width: 200px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3>Project One</h3>
+    <p>Short description of project one.</p>
   </a>
 
-  <a href="https://github.com/yourusername/waali" style="margin: 12px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150"><br>
-    <strong>Waali</strong><br>
-    Secure banking companion
+  <a href="https://github.com/yourusername/project2" style="flex: 1 1 calc(25% - 16px); 
+      border: 1px solid #ddd; border-radius: 8px; padding: 16px; text-align: center; 
+      text-decoration: none; color: inherit; min-width: 200px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3>Project Two</h3>
+    <p>Short description of project two.</p>
   </a>
 
-  <a href="https://github.com/yourusername/another-app" style="margin: 12px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150"><br>
-    <strong>Another App</strong><br>
-    Short description
+  <a href="https://github.com/yourusername/project3" style="flex: 1 1 calc(25% - 16px); 
+      border: 1px solid #ddd; border-radius: 8px; padding: 16px; text-align: center; 
+      text-decoration: none; color: inherit; min-width: 200px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3>Project Three</h3>
+    <p>Short description of project three.</p>
   </a>
+
+  <a href="https://github.com/yourusername/project4" style="flex: 1 1 calc(25% - 16px); 
+      border: 1px solid #ddd; border-radius: 8px; padding: 16px; text-align: center; 
+      text-decoration: none; color: inherit; min-width: 200px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3>Project Four</h3>
+    <p>Short description of project four.</p>
+  </a>
+
+  <!-- Add more cards as needed -->
 
 </div>
+
 
 
 # 📊 GitHub Stats:
