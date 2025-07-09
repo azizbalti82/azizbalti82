@@ -69,8 +69,6 @@ Flutter application for tracking habits and mood, with integrated personal journ
 <td width="33%" valign="top">
 
 ### 🎵 [Music Player](https://github.com/azizbalti82/joby)
-![music player-min](https://github.com/user-attachments/assets/2f397340-531a-49ee-999c-54ccbb00b2df)
-
 Android application for listening to music offline.
 
 **Tech Stack:** `Android` `MediaPlayer` `Offline Playback`
@@ -78,8 +76,6 @@ Android application for listening to music offline.
 <td width="33%" valign="top">
 
 ### 🍳 [Tastify](https://github.com/azizbalti82/tastify)
-![tastify-min](https://github.com/user-attachments/assets/c6dffc47-a65e-4196-89ab-3c1b7aaf78a5)
-
 Android app for discovering and managing cooking recipes.
 
 **Tech Stack:** `Android` `Java/Kotlin` `Recipe API`
@@ -90,8 +86,6 @@ Android app for discovering and managing cooking recipes.
 <td width="33%" valign="top">
 
 ### 🔒 [Focus Control](https://github.com/azizbalti82/focus-control)
-![apps_blocker-min](https://github.com/user-attachments/assets/a6b4885f-9fb9-465e-8f78-bde01585b92d)
-
 Application that helps stay focused by blocking distracting apps.
 
 **Tech Stack:** `Android` `App Blocking` `Productivity` `Accessibility` 
@@ -100,8 +94,6 @@ Application that helps stay focused by blocking distracting apps.
 <td width="33%" valign="top">
 
 ### 💬 [ChatLoop](https://github.com/azizbalti82/chatloop)
-![chatloop-min](https://github.com/user-attachments/assets/c58098f9-1188-4130-b7a3-c14c0ccd61b6)
-
 Mobile messaging application with discussions and stories, inspired by Meta Messenger.
 
 **Tech Stack:** `Flutter` `Firebase` `Real-time Chat`
@@ -110,8 +102,6 @@ Mobile messaging application with discussions and stories, inspired by Meta Mess
 <td width="33%" valign="top">
 
 ### 💼 [Joby](https://github.com/azizbalti82/joby)
-![joby - employee interface-min](https://github.com/user-attachments/assets/3fb100a4-295d-44aa-89df-d94dc41a6072)
-
 Application for searching jobs and applying quickly from a smartphone.
 
 **Tech Stack:** `Android` `Job Search API` `Mobile UI`
@@ -123,7 +113,6 @@ Application for searching jobs and applying quickly from a smartphone.
 
 ### 📺 [Android TV Kiosk](https://github.com/azizbalti82/android-tv-kiosk)
 Android TV advertising display system, remotely controlled via a web interface.
-
 **Tech Stack:** `Android` `Web Interface` `Remote Control`
 
 </td>
