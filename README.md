@@ -1,4 +1,4 @@
-## 💫 About Me:
+![music player-min](https://github.com/user-attachments/assets/613e93df-4e37-4f63-b1b2-a9477f24901f)## 💫 About Me:
 Hi! I'm **Aziz Balti** a passionate indie mobile developer driven by the thrill of bringing ideas to life. I specialize in **Flutter** and love building smooth, high-quality apps that feel great to use.
 
 Over the past few years, I've crafted **more than 10 full-featured mobile apps** from scratch, including work on a secure **banking app**. Whether it’s solving tough UI challenges, fine-tuning performance, or shaping a product from the ground up, I’m all in.
@@ -115,14 +115,25 @@ Application for searching jobs and applying quickly from a smartphone.
 **Tech Stack:** `Android` `Job Search API` `Mobile UI`
 
 </td>
+<td width="33%" valign="top">
+
+### 🎵 Music Player
+![music player-min](https://github.com/user-attachments/assets/7850a12d-c0a2-4375-8dc6-5917687f397b)
+
+Android application for listening to music offline.
+
+**Tech Stack:** `Android` `MediaPlayer` `Offline Playback`
+
+</td>
+
 </tr>
 </table>
 <!-- PROJECT GRID END -->
-<br/>
+
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=azizbalti82&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbalti82&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
+
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azizbalti) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/azizbalti) 
 
