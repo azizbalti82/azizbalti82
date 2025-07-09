@@ -27,9 +27,7 @@ I’m always pushing myself to learn, explore, and create better digital experie
 # 🚀 Projects I'm Proud Of — All Built from Scratch
 
 <div align="center">
-
-## Featured Repositories
-
+  <h2>Featured Repositories</h2>
 </div>
 
 <!-- PROJECT GRID START -->
@@ -44,8 +42,6 @@ Fun mobile application for learning German with AI assistance: interactive dialo
 
 **Tech Stack:** `Flutter` `Dart` `AI/ML`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/easydeutch?style=social)
-
 </td>
 <td width="33%" valign="top">
 
@@ -56,8 +52,6 @@ Flutter application allowing multiple users to watch videos together in real-tim
 
 **Tech Stack:** `Flutter` `WebRTC` `Firebase`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/watchy?style=social)
-
 </td>
 <td width="33%" valign="top">
 
@@ -67,8 +61,6 @@ Flutter application allowing multiple users to watch videos together in real-tim
 Mobile application designed to help users track their expenses, set budgets, and analyze their spending habits.
 
 **Tech Stack:** `Flutter` `SQLite` `Charts`
-
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/waali?style=social)
 
 </td>
 </tr>
@@ -82,8 +74,6 @@ Flutter application for tracking habits and mood, with integrated personal journ
 
 **Tech Stack:** `Flutter` `Dart` `Local Storage`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/havo?style=social)
-
 </td>
 <td width="33%" valign="top">
 
@@ -94,8 +84,6 @@ Android TV advertising display system, remotely controlled via a web interface.
 
 **Tech Stack:** `Android` `Web Interface` `Remote Control`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/android-tv-kiosk?style=social)
-
 </td>
 <td width="33%" valign="top">
 
@@ -105,8 +93,6 @@ Android TV advertising display system, remotely controlled via a web interface.
 Android app for discovering and managing cooking recipes.
 
 **Tech Stack:** `Android` `Java/Kotlin` `Recipe API`
-
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/tastify?style=social)
 
 </td>
 </tr>
@@ -120,8 +106,6 @@ Application that helps stay focused by blocking distracting apps.
 
 **Tech Stack:** `Android` `App Blocking` `Productivity`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/focus-control?style=social)
-
 </td>
 <td width="33%" valign="top">
 
@@ -131,8 +115,6 @@ Application that helps stay focused by blocking distracting apps.
 Mobile messaging application with discussions and stories, inspired by Meta Messenger.
 
 **Tech Stack:** `Flutter` `Firebase` `Real-time Chat`
-
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/chatloop?style=social)
 
 </td>
 <td width="33%" valign="top">
@@ -144,13 +126,10 @@ Application for searching jobs and applying quickly from a smartphone.
 
 **Tech Stack:** `Android` `Job Search API` `Mobile UI`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/joby?style=social)
-
 </td>
 </tr>
 </table>
 <!-- PROJECT GRID END -->
-
 
 
 
