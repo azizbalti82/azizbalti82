@@ -37,18 +37,20 @@ I’m always pushing myself to learn, explore, and create better digital experie
 <tr>
 <td width="33%" valign="top">
 
-### 🇩🇪 [EasyDeutch](https://github.com/azizbalti82/flutter-app-easy-deutsch)
-![EasyDeutch](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=easydeutch&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+### 🇩🇪 [EasyDeutch](https://github.com/yourusername/easydeutch)
+![EasyDeutch](https://github.com/yourusername/easydeutch/raw/main/screenshot.png)
 
 Fun mobile application for learning German with AI assistance: interactive dialogues, quizzes, and cultural discoveries.
 
 **Tech Stack:** `Flutter` `Dart` `AI/ML`
 
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/easydeutch?style=social)
+
 </td>
 <td width="33%" valign="top">
 
 ### 🎬 [Watchy](https://github.com/yourusername/watchy)
-![Watchy](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=watchy&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![Watchy](https://github.com/yourusername/watchy/raw/main/screenshot.png)
 
 Flutter application allowing multiple users to watch videos together in real-time in virtual rooms, with integrated chat and automatic playback synchronization.
 
@@ -60,7 +62,7 @@ Flutter application allowing multiple users to watch videos together in real-tim
 <td width="33%" valign="top">
 
 ### 💰 [Waali](https://github.com/yourusername/waali)
-![Waali](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=waali&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![Waali](https://github.com/yourusername/waali/raw/main/screenshot.png)
 
 Mobile application designed to help users track their expenses, set budgets, and analyze their spending habits.
 
@@ -74,7 +76,7 @@ Mobile application designed to help users track their expenses, set budgets, and
 <td width="33%" valign="top">
 
 ### 📝 [Havo](https://github.com/yourusername/havo)
-![Havo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=havo&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![Havo](https://github.com/yourusername/havo/raw/main/screenshot.png)
 
 Flutter application for tracking habits and mood, with integrated personal journal.
 
@@ -86,7 +88,7 @@ Flutter application for tracking habits and mood, with integrated personal journ
 <td width="33%" valign="top">
 
 ### 📺 [Android TV Kiosk](https://github.com/yourusername/android-tv-kiosk)
-![Android TV Kiosk](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=android-tv-kiosk&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![Android TV Kiosk](https://github.com/yourusername/android-tv-kiosk/raw/main/screenshot.png)
 
 Android TV advertising display system, remotely controlled via a web interface.
 
@@ -97,14 +99,14 @@ Android TV advertising display system, remotely controlled via a web interface.
 </td>
 <td width="33%" valign="top">
 
-### 🍳 [Tastify](https://github.com/azizbalti82/android_app_tastify)
-![Tastify](https://github-readme-stats.vercel.app/api/pin/?username=azizbalti82&repo=android_app_tastify&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+### 🍳 [Tastify](https://github.com/yourusername/tastify)
+![Tastify](https://github.com/yourusername/tastify/raw/main/screenshot.png)
 
 Android app for discovering and managing cooking recipes.
 
 **Tech Stack:** `Android` `Java/Kotlin` `Recipe API`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/azizbalti82/android_app_tastify?style=social)
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/tastify?style=social)
 
 </td>
 </tr>
@@ -112,7 +114,7 @@ Android app for discovering and managing cooking recipes.
 <td width="33%" valign="top">
 
 ### 🔒 [Focus Control](https://github.com/yourusername/focus-control)
-![Focus Control](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=focus-control&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![Focus Control](https://github.com/yourusername/focus-control/raw/main/screenshot.png)
 
 Application that helps stay focused by blocking distracting apps.
 
@@ -124,7 +126,7 @@ Application that helps stay focused by blocking distracting apps.
 <td width="33%" valign="top">
 
 ### 💬 [ChatLoop](https://github.com/yourusername/chatloop)
-![ChatLoop](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chatloop&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![ChatLoop](https://github.com/yourusername/chatloop/raw/main/screenshot.png)
 
 Mobile messaging application with discussions and stories, inspired by Meta Messenger.
 
@@ -136,7 +138,7 @@ Mobile messaging application with discussions and stories, inspired by Meta Mess
 <td width="33%" valign="top">
 
 ### 💼 [Joby](https://github.com/yourusername/joby)
-![Joby](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=joby&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+![Joby](https://github.com/yourusername/joby/raw/main/screenshot.png)
 
 Application for searching jobs and applying quickly from a smartphone.
 
