@@ -26,8 +26,6 @@ I’m always pushing myself to learn, explore, and create better digital experie
 
 # 🚀 My Projects
 
-<!-- Copy everything below this line and paste it into your README.md file -->
-
 <div align="center">
 
 ## Featured Repositories
@@ -39,76 +37,114 @@ I’m always pushing myself to learn, explore, and create better digital experie
 <tr>
 <td width="33%" valign="top">
 
-### 📱 [Project Name 1](https://github.com/yourusername/project1)
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+### 🇩🇪 [EasyDeutch](https://github.com/yourusername/easydeutch)
+![EasyDeutch](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=easydeutch&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Brief description of your project here. What it does, technologies used, etc.
+**Description:** Application mobile ludique pour apprendre l'allemand avec l'aide de l'IA : dialogues interactifs, quiz et découvertes culturelles.
 
-**Tech Stack:** `React` `Node.js` `MongoDB`
+**Tech Stack:** `Flutter` `Dart` `AI/ML`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/project1?style=social)
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 [Project Name 2](https://github.com/yourusername/project2)
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-
-**Description:** Brief description of your second project. Highlight key features and functionality.
-
-**Tech Stack:** `Python` `Django` `PostgreSQL`
-
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/project2?style=social)
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/easydeutch?style=social)
 
 </td>
 <td width="33%" valign="top">
 
-### 🎮 [Project Name 3](https://github.com/yourusername/project3)
-![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+### 🎬 [Watchy](https://github.com/yourusername/watchy)
+![Watchy](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=watchy&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Description of your third project. Mention what problem it solves or what it accomplishes.
+**Description:** Application Flutter permettant à plusieurs utilisateurs de regarder des vidéos ensemble en temps réel dans des salons virtuels, avec chat intégré et synchronisation automatique.
 
-**Tech Stack:** `JavaScript` `Express` `MySQL`
+**Tech Stack:** `Flutter` `WebRTC` `Firebase`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/project3?style=social)
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/watchy?style=social)
+
+</td>
+<td width="33%" valign="top">
+
+### 💰 [Waali](https://github.com/yourusername/waali)
+![Waali](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=waali&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+**Description:** Application mobile conçue pour aider les utilisateurs à suivre leurs dépenses, établir des budgets et analyser leurs habitudes de consommation.
+
+**Tech Stack:** `Flutter` `SQLite` `Charts`
+
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/waali?style=social)
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-### 🔧 [Project Name 4](https://github.com/yourusername/project4)
-![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+### 📝 [Havo](https://github.com/yourusername/havo)
+![Havo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=havo&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Fourth project description. Keep it concise but informative about the project's purpose.
+**Description:** Application Flutter de suivi des habitudes et de l'humeur, avec journal personnel intégré.
 
-**Tech Stack:** `Vue.js` `Firebase` `CSS3`
+**Tech Stack:** `Flutter` `Dart` `Local Storage`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/project4?style=social)
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 [Project Name 5](https://github.com/yourusername/project5)
-![Project 5](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project5&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-
-**Description:** Fifth project description. Explain what makes this project special or unique.
-
-**Tech Stack:** `TypeScript` `Next.js` `Tailwind`
-
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/project5?style=social)
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/havo?style=social)
 
 </td>
 <td width="33%" valign="top">
 
-### 🚀 [Project Name 6](https://github.com/yourusername/project6)
-![Project 6](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project6&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+### 📺 [Android TV Kiosk](https://github.com/yourusername/android-tv-kiosk)
+![Android TV Kiosk](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=android-tv-kiosk&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-**Description:** Sixth project description. Highlight the main features and benefits.
+**Description:** Système d'affichage de publicités sur TV Android, piloté à distance via une interface web.
 
-**Tech Stack:** `Go` `Docker` `AWS`
+**Tech Stack:** `Android` `Web Interface` `Remote Control`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/project6?style=social)
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/android-tv-kiosk?style=social)
+
+</td>
+<td width="33%" valign="top">
+
+### 🍳 [Tastify](https://github.com/yourusername/tastify)
+![Tastify](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=tastify&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+**Description:** Appli de découverte et gestion de recettes de cuisine sur Android.
+
+**Tech Stack:** `Android` `Java/Kotlin` `Recipe API`
+
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/tastify?style=social)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🔒 [Focus Control](https://github.com/yourusername/focus-control)
+![Focus Control](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=focus-control&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+**Description:** Application qui aide à rester concentré en bloquant les applications sources de distraction.
+
+**Tech Stack:** `Android` `App Blocking` `Productivity`
+
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/focus-control?style=social)
+
+</td>
+<td width="33%" valign="top">
+
+### 💬 [ChatLoop](https://github.com/yourusername/chatloop)
+![ChatLoop](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chatloop&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+**Description:** Application de messagerie mobile avec discussions et stories, inspirée de Meta Messenger.
+
+**Tech Stack:** `Flutter` `Firebase` `Real-time Chat`
+
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/chatloop?style=social)
+
+</td>
+<td width="33%" valign="top">
+
+### 💼 [Joby](https://github.com/yourusername/joby)
+![Joby](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=joby&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+**Description:** Application pour rechercher un emploi et postuler rapidement depuis un smartphone.
+
+**Tech Stack:** `Android` `Job Search API` `Mobile UI`
+
+⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/joby?style=social)
 
 </td>
 </tr>
