@@ -115,7 +115,9 @@ Application for searching jobs and applying quickly from a smartphone.
 **Tech Stack:** `Android` `Job Search API` `Mobile UI`
 
 </td>
-<td width="33%" valign="top">
+
+<tr>
+  <td width="33%" valign="top">
 
 ### 🎵 Music Player
 ![music player-min](https://github.com/user-attachments/assets/2f397340-531a-49ee-999c-54ccbb00b2df)
