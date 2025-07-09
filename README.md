@@ -1,3 +1,15 @@
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 # 💫 About Me:
 Hi! I'm **Aziz Balti** a passionate indie mobile developer driven by the thrill of bringing ideas to life. I specialize in **Flutter** and love building smooth, high-quality apps that feel great to use.
 
@@ -13,91 +25,14 @@ I’m always pushing myself to learn, explore, and create better digital experie
 
 ## 🚀 My Projects
 
-<div>
 
-  <a href="https://github.com/yourusername/project1" style="
-    display: inline-block;
-    vertical-align: top;
-    width: 22%;
-    margin: 1%;
-    padding: 16px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    text-align: center;
-    text-decoration: none;
-    color: inherit;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    ">
-    <h3>Project One</h3>
-    <p>Short description of project one.</p>
-  </a>
-
-  <a href="https://github.com/yourusername/project2" style="
-    display: inline-block;
-    vertical-align: top;
-    width: 22%;
-    margin: 1%;
-    padding: 16px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    text-align: center;
-    text-decoration: none;
-    color: inherit;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    ">
-    <h3>Project Two</h3>
-    <p>Short description of project two.</p>
-  </a>
-
-  <a href="https://github.com/yourusername/project3" style="
-    display: inline-block;
-    vertical-align: top;
-    width: 22%;
-    margin: 1%;
-    padding: 16px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    text-align: center;
-    text-decoration: none;
-    color: inherit;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    ">
-    <h3>Project Three</h3>
-    <p>Short description of project three.</p>
-  </a>
-
-  <a href="https://github.com/yourusername/project4" style="
-    display: inline-block;
-    vertical-align: top;
-    width: 22%;
-    margin: 1%;
-    padding: 16px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    text-align: center;
-    text-decoration: none;
-    color: inherit;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    ">
-    <h3>Project Four</h3>
-    <p>Short description of project four.</p>
-  </a>
-
-  <!-- Add more cards the same way -->
-
-</div>
 
 
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=azizbalti82&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbalti82&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=azizbalti82&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=azizbalti82&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://nirzak-streak-stats.vercel.app/?user=azizbalti82&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbalti82&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azizbalti) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/azizbalti) 
