@@ -44,8 +44,6 @@ Fun mobile application for learning German with AI assistance: interactive dialo
 
 **Tech Stack:** `Flutter` `Dart` `AI/ML`
 
-⭐ **Stars:** ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/easydeutch?style=social)
-
 </td>
 <td width="33%" valign="top">
 
@@ -99,7 +97,7 @@ Android TV advertising display system, remotely controlled via a web interface.
 </td>
 <td width="33%" valign="top">
 
-### 🍳 [Tastify](https://github.com/yourusername/tastify)
+### 🍳 [Tastify](https://github.com/azizbalti82/android_app_tastify)
 ![Tastify](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=tastify&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
 Android app for discovering and managing cooking recipes.
