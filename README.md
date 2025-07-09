@@ -25,23 +25,9 @@ I’m always pushing myself to learn, explore, and create better digital experie
 
 
 ## 🚀 Projects I'm Proud Of — All Built from Scratch
-<!-- PROJECT GRID START -->
-<style>
-  .project-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 20px;
-  }
-  .project-card {
-    border: 1px solid #444;
-    border-radius: 10px;
-    padding: 16px;
-    background-color: #1e1e1e;
-  }
-</style>
+
 
 <div class="project-grid">
-
   <div class="project-card">
     <h3>🇩🇪 <a href="https://github.com/azizbalti82/easydeutch">EasyDeutch</a></h3>
     <p>Fun mobile application for learning German with AI assistance: interactive dialogues, quizzes, and cultural discoveries.</p>
@@ -101,7 +87,6 @@ I’m always pushing myself to learn, explore, and create better digital experie
     <p>Android TV advertising display system controlled via web interface.</p>
     <strong>Tech Stack:</strong> <code>Android</code> <code>Web Interface</code> <code>Remote Control</code>
   </div>
-
 </div>
 <!-- PROJECT GRID END -->
 
