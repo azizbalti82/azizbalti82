@@ -1,4 +1,4 @@
-dont change anything just add more space between sections:## 💫 About Me:
+## 💫 About Me:
 Hi! I'm **Aziz Balti** a passionate indie mobile developer driven by the thrill of bringing ideas to life. I specialize in **Flutter** and love building smooth, high-quality apps that feel great to use.
 
 Over the past few years, I've crafted **more than 10 full-featured mobile apps** from scratch, including work on a secure **banking app**. Whether it’s solving tough UI challenges, fine-tuning performance, or shaping a product from the ground up, I’m all in.
